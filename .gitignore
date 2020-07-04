@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+venv/
+*.jpg
+*.png
+*.jpeg
+*.pdf
+*.DS_Store
